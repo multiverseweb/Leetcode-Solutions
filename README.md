@@ -2,8 +2,10 @@
 
 Welcome to my repository where I share my solutions to various LeetCode problems! Here, you'll find a comprehensive collection of my answers to problems across different categories including algorithms, data structures, database management and more.
 
+![](https://leetcard.jacoblin.cool/iamtejasgupta26?ext=heatmap)
 
 <a href= "https://leetcode.com/iamtejasgupta26/"> ![LeetCode](https://img.shields.io/badge/Tejas'%20leetcode%20profile-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+
 
 ## 📚 About the Repository
 
