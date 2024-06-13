@@ -66,6 +66,5 @@ class Solution(object):
             return False
         if s.isnumeric():
             return True
-        
         if s[0].isnumeric() or s[0] in ['+','-']:
             return True
