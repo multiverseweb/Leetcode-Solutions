@@ -1,2 +1,45 @@
-# Leetcode-Solutions
-A collection of my LeetCode problem solutions, primarily in Python, organized for easy reference and improvement.
+# LeetCode Solutions
+
+Welcome to my repository where I share my solutions to various LeetCode problems! Here, you'll find a comprehensive collection of my answers to problems across different categories including algorithms, data structures, database management and more.
+
+## 📚 About the Repository
+
+This repository serves as a personal archive of my problem-solving journey on LeetCode. Each solution is written with clarity and includes comments whereever required to explain the thought process and approach used. The solutions are primarily in Python, but you may find some in other languages as I explore and learn.
+
+## 🔍 Structure
+
+- Each solution file is named using the format `problem-number-problem-title.py` (or `.cpp`, `.js`, etc.).
+- Example: `1-two-sum.py`
+
+## 🛠 Technologies
+
+- **Primary Language**: Python
+- **Others**: C++, JavaScript, C
+
+## 🚀 Getting Started
+
+To run any of the solutions:
+1. Clone the repository: 
+    ```bash
+    git clone https://github.com/your-username/leetcode-solutions.git
+    ```
+2. Navigate to the repository:
+    ```bash
+    cd leetcode-solutions
+    ```
+3. Run the solution file:
+    ```bash
+    python problem-number-problem-title.py
+    ```
+
+## 🤝 Contributions
+
+Feel free to fork this repository and submit pull requests if you have better solutions or improvements to the existing ones. Discussions and suggestions are always welcome!
+
+## 📬 Contact
+
+For any questions or discussions, you can reach out to me via [GitHub Issues](https://github.com/your-username/leetcode-solutions/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/tejas-gupta).
+
+---
+
+Happy Coding!
