@@ -6,7 +6,7 @@ class Solution(object):
         s = 0
         for i, num in enumerate(nums):
             s += num
-            a = s % k
+            a = s%k
             if a in r:
                 if i - r[a] > 1:
                     return nums[r[a] + 1:i + 1]
