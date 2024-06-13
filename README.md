@@ -26,11 +26,11 @@ This repository serves as a personal archive of my problem-solving journey on Le
 To run any of the solutions:
 1. Clone the repository: 
     ```bash
-    git clone https://github.com/your-username/leetcode-solutions.git
+    git clone https://github.com/multiverseweb/Leetcode-Solutions.git
     ```
 2. Navigate to the repository:
     ```bash
-    cd leetcode-solutions
+    cd Leetcode-Solutions
     ```
 3. Run the solution file:
     ```bash
