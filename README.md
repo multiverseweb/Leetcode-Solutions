@@ -38,7 +38,7 @@ Feel free to fork this repository and submit pull requests if you have better so
 
 ## 📬 Contact
 
-For any questions or discussions, you can reach out to me via [GitHub Issues](https://github.com/your-username/leetcode-solutions/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/tejas-gupta).
+For any questions or discussions, you can reach out to me via [GitHub Issues](https://github.com/your-username/leetcode-solutions/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/tejascodes).
 
 ---
 
