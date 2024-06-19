@@ -37,10 +37,6 @@ To run any of the solutions:
     python problem-number-problem-title.py
     ```
 
-## 🤝 Contributions
-
-Feel free to fork this repository and submit pull requests if you have better solutions or improvements to the existing ones. Discussions and suggestions are always welcome!
-
 ## 📬 Contact
 
 For any questions or discussions, you can reach out to me via [GitHub Issues](https://github.com/your-username/leetcode-solutions/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/tejascodes).
