@@ -11,7 +11,7 @@ class Solution(object):
                 for z in temp[j]:
                     sum_digits+=int(z)
                 temp[j]=str(sum_digits)
-            s=''
+            s=""
             for i in temp:
                 s+=i
         return s
