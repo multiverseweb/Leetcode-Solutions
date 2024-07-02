@@ -21,22 +21,6 @@ This repository serves as a personal archive of my problem-solving journey on Le
 - **Primary Language**: Python
 - **Others**: C++, JavaScript, C
 
-## 🚀 Getting Started
-
-To run any of the solutions:
-1. Clone the repository: 
-    ```bash
-    git clone https://github.com/multiverseweb/Leetcode-Solutions.git
-    ```
-2. Navigate to the repository:
-    ```bash
-    cd Leetcode-Solutions
-    ```
-3. Run the solution file:
-    ```bash
-    python problem-number-problem-title.py
-    ```
-
 ## 📬 Contact
 
 For any questions or discussions, you can reach out to me via [GitHub Issues](https://github.com/your-username/leetcode-solutions/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/tejascodes).
